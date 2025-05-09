@@ -144,6 +144,13 @@ button:hover {
   border: 1px solid #bee5eb;
 }
 
+.participant {
+  font-size: 16px;
+  color: #1a237e; /* A dark blue color, matching the theme */
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
 .hidden {
   display: none;
 }
